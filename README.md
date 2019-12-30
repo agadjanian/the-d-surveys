@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains raw data, questionnaires, and information for surveys I conducted on the Dartmouth College student body from the Spring 2016 to Spring 2018 terms, as part of my work for _The Dartmouth_ (The D) student newspaper. I initially wrote up results in various articles (a link to them can be found [here](https://www.thedartmouth.com/search?a=1&o=date&ty=article&au=Alexander+Agadjanian)). Although my main interest was the political attitudes of students, most surveys covered other student and campus topics.
+This repository contains raw data, questionnaires, and information for surveys I conducted on the Dartmouth College student body from the Spring 2016 to Spring 2018 terms, as part of my work for [_The Dartmouth_](https://www.thedartmouth.com/) (The D) student newspaper. I initially wrote up results in various articles (a link to them can be found [here](https://www.thedartmouth.com/search?a=1&o=date&ty=article&au=Alexander+Agadjanian)). Although my main interest was the political attitudes of students, most surveys covered other student and campus topics.
 
 The `surveys` folder contains sub-folders for each individual survey I ran, and within them are an accompanying questionnaire and survey dataset. The below "Survey Descriptions" summarize topics asked about in each survey. I also provide a few details on the process of sampling and weighting below.
 
